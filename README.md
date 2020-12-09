@@ -2,10 +2,10 @@
 the tiniest npm module
 
 # install
-npm install @bamblehorse/tiny
+npm install @widelec2/tiny
 
 # usage
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@widelec2/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
